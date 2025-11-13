@@ -164,7 +164,7 @@ export default function Adventures() {
           className="text-center mt-16"
         >
           <p className="text-muted-foreground italic">
-            "Travel makes one modest. You see what a tiny place you occupy in the world."
+            &ldquo;Travel makes one modest. You see what a tiny place you occupy in the world.&rdquo;
           </p>
           <p className="text-sm text-muted-foreground mt-2">— Gustave Flaubert</p>
         </motion.div>

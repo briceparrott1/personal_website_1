@@ -223,7 +223,7 @@ export default function Thoughts() {
           className="text-center mt-16"
         >
           <p className="text-muted-foreground italic">
-            "The best way to find out if you can trust somebody is to trust them."
+            &ldquo;The best way to find out if you can trust somebody is to trust them.&rdquo;
           </p>
           <p className="text-sm text-muted-foreground mt-2">— Ernest Hemingway</p>
         </motion.div>
